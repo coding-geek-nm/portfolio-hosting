@@ -4,11 +4,7 @@ import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
-<<<<<<< HEAD
-import laptopImg from "../../Assets/about.png";
-=======
 import laptopImg from "../../Assets/Projects/nidhi3.png";
->>>>>>> main
 import Toolstack from "./Toolstack";
 
 function About() {
