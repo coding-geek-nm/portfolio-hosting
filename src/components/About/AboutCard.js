@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">NIDHI B M </span>
             from <span className="purple"> Karnataka, India.</span>
             <br />
-            I am currently a 2nd year Undergrad,
+            I am currently a final year Undergrad,
             <br />
             from BMS College of Engineering,Banglore.
             

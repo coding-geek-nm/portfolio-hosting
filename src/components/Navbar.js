@@ -39,7 +39,13 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <img src={logo} className="img-fluid logo" alt="brand" />
+         {/* <img
+  src="https://static.vecteezy.com/system/resources/thumbnails/015/280/693/small_2x/3d-purple-star-sparkle-icon-holiday-element-sparkles-symbols-magic-shiny-flash-bright-firework-realistic-glossy-plastic-3d-render-design-illustration-for-social-media-or-decoration-png.png"
+  className="img-fluid logo"
+  alt="brand"
+  style={{ height: "100px" }} 
+/> */}
+
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
